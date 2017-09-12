@@ -1,0 +1,27 @@
+{
+  "name": "koa-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1",
+    "mockjs": "^1.0.1-beta3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doubleysinglem/koa-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doubleysinglem/koa-server/issues"
+  },
+  "homepage": "https://github.com/doubleysinglem/koa-server#readme"
+}
